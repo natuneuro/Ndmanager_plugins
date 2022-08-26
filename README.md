@@ -11,7 +11,7 @@ Developed by Lynn Hazan and Michaël Zugaro, distributed under the GNU Public Li
 
 Install following dependencies before compiling NDManager-plugins
 ```
-sudo apt install libxml2-dev xsltproc docbook-xsl libgsl-dev
+sudo apt install libxml2-dev xsltproc docbook-xsl libgsl-dev yasm
 ```
   1. Go to `/NDManager-plugins` directory and type:
   ```
