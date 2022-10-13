@@ -23,6 +23,6 @@ sudo apt install libxml2-dev xsltproc docbook-xsl libgsl-dev yasm
   ```
   2. Update all installed libraries:
   ```
-  sudo/sbin/ldconfig -v
+  sudo /sbin/ldconfig -v
   ```
   
